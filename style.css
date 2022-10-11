@@ -20,6 +20,7 @@ text-align: center;
 margin-bottom: 25px;
 color: #fff;
 
+
 }
 .list-nav {
 padding: 0;
@@ -31,13 +32,15 @@ display: inline-block;
 list-style: none;
 margin-left: 10px;
 margin-right: 10px;
+color: #fff;
 }
 .list-nav a { 
-    font-size: 20px; 
+    font-size: 20px;
+    color: #fff; 
 }
 
 .list-nav li a.active { 
-   color: #0e0d0d;
+   color: #5a5050;
  }
 a:hover { 
     color: #0e0d0d;
